@@ -1,0 +1,21 @@
+{
+  "batch_size": 20,
+  "epoch": 1000,
+  "learning_rate": 0.0001,
+  "actnorm": true,
+  "batchnorm": false,
+  "resNet": false,
+  "lu": true,
+  "n_blocks": 32,
+  "levels": 2,
+  "n_bits": 8,
+  "n_samples": 10,
+  "temp": 0.6,
+  "split": false,
+  "dataset": "MNIST",
+  "affine": true,
+  "c": 1,
+  "print_dict": false,
+  "dequantize": false,
+  "f": null
+}
